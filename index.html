@@ -7,7 +7,7 @@
 <div id="chartContainer">
   <script type="text/javascript">
     var svg = dimple.newSvg("#chartContainer", 700, 400);
-    d3.tsv("data.tsv", function (data) {
+    d3.tsv("data/data.tsv", function (data) {
       var myChart = new dimple.chart(svg, data);
       myChart.setBounds(60, 30, 510, 305)
       var x = myChart.addCategoryAxis("x", "Hour");
