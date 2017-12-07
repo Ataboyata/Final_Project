@@ -1,49 +1,267 @@
-Hour	Total Flights	On Time
-0	14204	Delayed
-0	6164	On Time
-1	4630	Delayed
-1	1231	On Time
-2	1304	Delayed
-2	547	On Time
-3	418	Delayed
-3	415	On Time
-4	251	Delayed
-4	3139	On Time
-5	5680	Delayed
-5	142487	On Time
-6	81432	Delayed
-6	365305	On Time
-7	98370	Delayed
-7	338330	On Time
-8	119913	Delayed
-8	329311	On Time
-9	137356	Delayed
-9	297494	On Time
-10	153962	Delayed
-10	277498	On Time
-11	170165	Delayed
-11	274537	On Time
-12	169764	Delayed
-12	254485	On Time
-13	184216	Delayed
-13	251701	On Time
-14	183702	Delayed
-14	233173	On Time
-15	191151	Delayed
-15	219975	On Time
-16	194351	Delayed
-16	239666	On Time
-17	204793	Delayed
-17	227695	On Time
-18	193505	Delayed
-18	207279	On Time
-19	193304	Delayed
-19	193984	On Time
-20	158022	Delayed
-20	127969	On Time
-21	137156	Delayed
-21	117694	On Time
-22	72892	Delayed
-22	46759	On Time
-23	30433	Delayed
-23	15670	On Time
+Hour	Airline	Total Flights	On Time
+0	AA	1549	Delayed
+0	AA	764	On Time
+0	DL	1055	Delayed
+0	DL	891	On Time
+0	MQ	165	Delayed
+0	OO	350	Delayed
+0	OO	1	On Time
+0	US	1890	Delayed
+0	US	100	On Time
+0	WN	904	Delayed
+1	AA	539	Delayed
+1	AA	53	On Time
+1	DL	489	Delayed
+1	DL	258	On Time
+1	MQ	15	Delayed
+1	OO	97	Delayed
+1	US	404	Delayed
+1	US	129	On Time
+1	WN	369	Delayed
+2	AA	95	Delayed
+2	DL	89	Delayed
+2	MQ	4	Delayed
+2	OO	16	Delayed
+2	US	156	Delayed
+2	WN	105	Delayed
+3	AA	20	Delayed
+3	DL	22	Delayed
+3	OO	5	Delayed
+3	US	29	Delayed
+3	WN	30	Delayed
+4	AA	6	Delayed
+4	AA	166	On Time
+4	DL	1	Delayed
+4	DL	2	On Time
+4	OO	2	Delayed
+4	OO	454	On Time
+4	US	10	Delayed
+4	US	421	On Time
+4	WN	8	Delayed
+5	AA	176	Delayed
+5	AA	12847	On Time
+5	DL	444	Delayed
+5	DL	13210	On Time
+5	MQ	424	Delayed
+5	MQ	12309	On Time
+5	OO	863	Delayed
+5	OO	19725	On Time
+5	US	518	Delayed
+5	US	6941	On Time
+5	WN	3	Delayed
+5	WN	3642	On Time
+6	AA	6349	Delayed
+6	AA	28532	On Time
+6	DL	4413	Delayed
+6	DL	21415	On Time
+6	MQ	4887	Delayed
+6	MQ	26100	On Time
+6	OO	6776	Delayed
+6	OO	28764	On Time
+6	US	3337	Delayed
+6	US	21706	On Time
+6	WN	22428	Delayed
+6	WN	62257	On Time
+7	AA	7590	Delayed
+7	AA	33498	On Time
+7	DL	6817	Delayed
+7	DL	27462	On Time
+7	MQ	7277	Delayed
+7	MQ	22577	On Time
+7	OO	5680	Delayed
+7	OO	23542	On Time
+7	US	6675	Delayed
+7	US	28354	On Time
+7	WN	26093	Delayed
+7	WN	57985	On Time
+8	AA	9582	Delayed
+8	AA	30423	On Time
+8	DL	7963	Delayed
+8	DL	23197	On Time
+8	MQ	8309	Delayed
+8	MQ	20461	On Time
+8	OO	7723	Delayed
+8	OO	26563	On Time
+8	US	6965	Delayed
+8	US	22557	On Time
+8	WN	28393	Delayed
+8	WN	47522	On Time
+9	AA	11789	Delayed
+9	AA	25483	On Time
+9	DL	7152	Delayed
+9	DL	18604	On Time
+9	MQ	10673	Delayed
+9	MQ	21936	On Time
+9	OO	7879	Delayed
+9	OO	22812	On Time
+9	US	9366	Delayed
+9	US	24738	On Time
+9	WN	30577	Delayed
+9	WN	44296	On Time
+10	AA	12855	Delayed
+10	AA	21546	On Time
+10	DL	8847	Delayed
+10	DL	17788	On Time
+10	MQ	11317	Delayed
+10	MQ	21756	On Time
+10	OO	11311	Delayed
+10	OO	25908	On Time
+10	US	8576	Delayed
+10	US	12733	On Time
+10	WN	35249	Delayed
+10	WN	41455	On Time
+11	AA	15101	Delayed
+11	AA	22678	On Time
+11	DL	11847	Delayed
+11	DL	18966	On Time
+11	MQ	12650	Delayed
+11	MQ	19222	On Time
+11	OO	12865	Delayed
+11	OO	25495	On Time
+11	US	10149	Delayed
+11	US	23528	On Time
+11	WN	36630	Delayed
+11	WN	36715	On Time
+12	AA	17302	Delayed
+12	AA	21382	On Time
+12	DL	10245	Delayed
+12	DL	17419	On Time
+12	MQ	11155	Delayed
+12	MQ	18892	On Time
+12	OO	11203	Delayed
+12	OO	22189	On Time
+12	US	7501	Delayed
+12	US	14384	On Time
+12	WN	38746	Delayed
+12	WN	34923	On Time
+13	AA	18140	Delayed
+13	AA	19219	On Time
+13	DL	10383	Delayed
+13	DL	16291	On Time
+13	MQ	13412	Delayed
+13	MQ	17886	On Time
+13	OO	14440	Delayed
+13	OO	24980	On Time
+13	US	8866	Delayed
+13	US	18041	On Time
+13	WN	40289	Delayed
+13	WN	30829	On Time
+14	AA	19312	Delayed
+14	AA	18298	On Time
+14	DL	9892	Delayed
+14	DL	14519	On Time
+14	MQ	13066	Delayed
+14	MQ	17092	On Time
+14	OO	13068	Delayed
+14	OO	21294	On Time
+14	US	8606	Delayed
+14	US	15101	On Time
+14	WN	41711	Delayed
+14	WN	29516	On Time
+15	AA	18978	Delayed
+15	AA	19365	On Time
+15	DL	11170	Delayed
+15	DL	13772	On Time
+15	MQ	13334	Delayed
+15	MQ	17581	On Time
+15	OO	12969	Delayed
+15	OO	19527	On Time
+15	US	8077	Delayed
+15	US	14339	On Time
+15	WN	42485	Delayed
+15	WN	28688	On Time
+16	AA	18486	Delayed
+16	AA	15843	On Time
+16	DL	13280	Delayed
+16	DL	18889	On Time
+16	MQ	13811	Delayed
+16	MQ	17483	On Time
+16	OO	14844	Delayed
+16	OO	24935	On Time
+16	US	10747	Delayed
+16	US	17957	On Time
+16	WN	43760	Delayed
+16	WN	27693	On Time
+17	AA	18770	Delayed
+17	AA	17870	On Time
+17	DL	11898	Delayed
+17	DL	13157	On Time
+17	MQ	13542	Delayed
+17	MQ	15332	On Time
+17	OO	12527	Delayed
+17	OO	20360	On Time
+17	US	8913	Delayed
+17	US	17667	On Time
+17	WN	44900	Delayed
+17	WN	29272	On Time
+18	AA	18918	Delayed
+18	AA	16363	On Time
+18	DL	9353	Delayed
+18	DL	13746	On Time
+18	MQ	13286	Delayed
+18	MQ	16085	On Time
+18	OO	11312	Delayed
+18	OO	18736	On Time
+18	US	11895	Delayed
+18	US	16068	On Time
+18	WN	45277	Delayed
+18	WN	29682	On Time
+19	AA	18475	Delayed
+19	AA	12673	On Time
+19	DL	11616	Delayed
+19	DL	10151	On Time
+19	MQ	12529	Delayed
+19	MQ	12976	On Time
+19	OO	10683	Delayed
+19	OO	18892	On Time
+19	US	9098	Delayed
+19	US	14213	On Time
+19	WN	43673	Delayed
+19	WN	30163	On Time
+20	AA	14831	Delayed
+20	AA	8624	On Time
+20	DL	9643	Delayed
+20	DL	7039	On Time
+20	MQ	10129	Delayed
+20	MQ	8543	On Time
+20	OO	8900	Delayed
+20	OO	13025	On Time
+20	US	10343	Delayed
+20	US	12272	On Time
+20	WN	40557	Delayed
+20	WN	26484	On Time
+21	AA	12140	Delayed
+21	AA	6230	On Time
+21	DL	8511	Delayed
+21	DL	9787	On Time
+21	MQ	7221	Delayed
+21	MQ	4877	On Time
+21	OO	8884	Delayed
+21	OO	14148	On Time
+21	US	5737	Delayed
+21	US	6451	On Time
+21	WN	33579	Delayed
+21	WN	16843	On Time
+22	AA	7113	Delayed
+22	AA	3103	On Time
+22	DL	4903	Delayed
+22	DL	4738	On Time
+22	MQ	2565	Delayed
+22	MQ	909	On Time
+22	OO	4325	Delayed
+22	OO	5219	On Time
+22	US	7634	Delayed
+22	US	8149	On Time
+22	WN	12508	Delayed
+22	WN	281	On Time
+23	AA	3348	Delayed
+23	AA	1109	On Time
+23	DL	2434	Delayed
+23	DL	1402	On Time
+23	MQ	744	Delayed
+23	OO	1442	Delayed
+23	OO	169	On Time
+23	US	2532	Delayed
+23	US	3208	On Time
+23	WN	2875	Delayed
+23	WN	1	On Time
